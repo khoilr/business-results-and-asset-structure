@@ -10,7 +10,7 @@ After extracting the data, we need to clean it by removing the ‘Quý’ prefix
 
 Finally, we can use the `plotly` library to visualize the data in a bar chart. We can create a `Figure` object and add traces for the revenue and profit data, and then customize the layout and display the chart.
 
-![Business results](./Business%20resutls.png)
+![Business results](./Business%20results.png)
 
 ## Asset structure
 
